@@ -10,7 +10,7 @@
 
 <h3> How to reach me? 🤔</h3>
 
-📮  **E-mail ...**[![NaverMail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehdaydkv112@naver.com)](mailto:ehdaydkv112@naver.com)
+📮  **E-mail : ehdaydkv112@naver.com
 </p>
 <br>
 
