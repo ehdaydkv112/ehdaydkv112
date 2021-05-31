@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&text=ChongMyeong-Lee&color=random&fontAlign=70&fontSize=40&fontColor=ffffff&animation=blink&height=130)
+![header](https://capsule-render.vercel.app/api?type=waves&text=강태진(TaeJin-Kang)&color=random&fontAlign=70&fontSize=40&fontColor=ffffff&animation=blink&height=130)
 
 <div align=center style="display:flex">
 
