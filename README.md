@@ -10,7 +10,7 @@
 
 <h3> How to reach me? 🤔</h3>
 
-📮  **E-mail ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehdaydkv112@naver.com)](mailto:ehdaydkv112@naver.com)
+📮  **E-mail ...**[![NaverMail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehdaydkv112@naver.com)](mailto:ehdaydkv112@naver.com)
 </p>
 <br>
 
@@ -45,7 +45,6 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Java-AA3333?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </div>
