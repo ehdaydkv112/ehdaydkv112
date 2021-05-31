@@ -5,7 +5,7 @@
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
 안녕하세요! 자라나는 백엔드 새싹 강태진입니다! 🌞 <br>
- Learn while Doing, at Everything😄 <br>
+<br>
     </p>
 
 <h3> How to reach me? 🤔</h3>
