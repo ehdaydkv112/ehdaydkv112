@@ -1,15 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=강태진(TaeJin-Kang)&color=random&fontAlign=70&fontSize=40&fontColor=ffffff&animation=blink&height=130)
 
 <div align=center style="display:flex">
-
-<h3 align="center">Hi there 👋</h3>
-<p align="center">
-안녕하세요! 자라나는 백엔드 새싹 강태진입니다! 🌞 <br>
-<br>
-    </p>
-
-<h3> How to reach me? 🤔</h3>
-
+<p>
 📮  **E-mail : ehdaydkv112@naver.com
 </p>
 <br>
