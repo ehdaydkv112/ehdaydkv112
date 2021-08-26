@@ -18,7 +18,7 @@
 
 
 
-<h3 align=center>🎇 Main Stack</h3>
+<h3 align=center>🎇 쫌 한다 이거야</h3>
 <div align=center style="display:flex">
 
 
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 
-<h3>  🙋 ♂️ I've used at least once  </h3>
+<h3>  🙋 사용은 해봤다ㅎㅎ... /h3>
     
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
