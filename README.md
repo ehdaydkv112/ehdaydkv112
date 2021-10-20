@@ -36,7 +36,10 @@
 
 
 <br>
-
+</div>
+<div align=center style="display:flex">
+<h3 align=center> 공부중 </h3>
+<h3 align=center> Nestjs, TypeORM </h3>
 </div>
 
 </div>
