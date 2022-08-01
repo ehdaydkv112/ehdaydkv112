@@ -44,4 +44,6 @@
 <h3 align=center> Flutter, 금교석 </h3>
 </div>
 
+조상균 : 내가 플러터 1짱이다.
+
 </div>
