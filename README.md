@@ -6,10 +6,6 @@
 </p>
 <br>
 
-![image](https://user-images.githubusercontent.com/78591345/207617233-8c2265d5-f72e-4d80-b95d-0c25d1b0720d.png)
-
-
-
 <div align="center" style="display:flex">
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdaydkv112&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
@@ -45,5 +41,10 @@
 <h3 align=center> 공부중 </h3>
 <h3 align=center> Docker, Kubernetes, Dart, Flutter, 금교석, 장태웅 </h3>
 </div>
+
+
+![image](https://user-images.githubusercontent.com/78591345/207617233-8c2265d5-f72e-4d80-b95d-0c25d1b0720d.png)
+
+
 
 </div>
