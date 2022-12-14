@@ -41,7 +41,7 @@
 </div>
 <div align=center style="display:flex">
 <h3 align=center> 공부중 </h3>
-<h3 align=center> Docker, Kubernetes, Dart, Flutter, 금교석 </h3>
+<h3 align=center> Docker, Kubernetes, Dart, Flutter, 금교석, 장태웅 </h3>
 </div>
 
 </div>
