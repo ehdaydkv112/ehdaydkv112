@@ -1,7 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=강태진(TaeJin-Kang)&color=random&fontAlign=70&fontSize=40&fontColor=ffffff&animation=blink&height=130)
 
+<div align=center >
+<img src="https://user-images.githubusercontent.com/78591345/209548442-2cec17e8-9b22-4803-a3da-673ad0dbda0e.png"
+     width="50%"
+     height="50%"
+     />
+</div>
+
 <div align=center style="display:flex">
-<p>
+
 📮  **E-mail : ehdaydkv112@naver.com
 </p>
 <br>
