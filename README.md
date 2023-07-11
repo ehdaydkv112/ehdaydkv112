@@ -43,8 +43,8 @@
 <div align=center style="display:flex">
 <h3 align=center> Docker, Kubernetes, Dart, Flutter, 금교석, 장태웅 </h3>
 <h3 align=center> 수연 : 개발신 (이 될 예정) </h3>
-<h3 align=center> 보라 : 부동산 부자 (가 될 예정) </h3>
-<h3 align=center> 태진 : 디자이너 (가 될 예정) </h3>
+<h3 align=center> 보라 : 부동산신 (이 될 예정) </h3>
+<h3 align=center> 태진 : 디자이너신 (이 될 예정) </h3>
 </div>
 
 
