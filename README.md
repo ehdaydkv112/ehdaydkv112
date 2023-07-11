@@ -12,20 +12,11 @@
 <br />
 <br />
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=강태진(TaeJin-Kang)&color=random&fontAlign=70&fontSize=40&fontColor=ffffff&animation=blink&height=130)
-
 <div align=center style="display:flex">
 
 📮  **E-mail : ehdaydkv112@naver.com
 </p>
 <br>
-
-<div align="center" style="display:flex">
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdaydkv112&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
-
-</div>
-
 
 
 <div align=center style="display:flex">
