@@ -14,7 +14,7 @@
 
 <div align=center style="display:flex">
 
-📮  **E-mail : taejin@keuhan.com
+📮  **E-mail : ehdaydkv112@naver.com
 </p>
 <br>
 
