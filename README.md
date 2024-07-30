@@ -7,7 +7,13 @@
      />
 </div>
 
+<div align=center>
 <br />
+대충 알았따.<br>
+너희들의 수준..<br>
+시시해서 죽고 싶어졌다.
+</div>
+
 <br />
 <br />
 <br />
@@ -36,7 +42,6 @@
 <img src="https://img.shields.io/badge/ReactNative-4479A1?style=flat-square&logo=ReactNative&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-4479A1?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-
 
 <br>
 </div>
