@@ -6,7 +6,6 @@
      height="50%"
      />
 </div>
-
 <div align=center>
 <br />
 대충 알았따.<br>
@@ -41,10 +40,4 @@
 <h3 align=center> 보라 : 부동산신 (이 될 예정) </h3>
 <h3 align=center> 태진 : 디자이너신 (이 될 예정) </h3>
 </div>
-
-
-<img src="https://user-images.githubusercontent.com/78591345/207617233-8c2265d5-f72e-4d80-b95d-0c25d1b0720d.png" width="50%" height="50%" />
-
-
-
 </div>
