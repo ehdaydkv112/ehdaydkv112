@@ -14,13 +14,6 @@
 시시해서 죽고 싶어졌다.
 </div>
 
-<br />
-<br />
-<br />
-
-
-<br>
-
 
 <div align=center style="display:flex">
 <h3 align=center> hello </h3>
