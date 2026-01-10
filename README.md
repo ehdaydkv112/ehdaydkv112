@@ -18,10 +18,7 @@
 <br />
 <br />
 
-<div align=center style="display:flex">
 
-📮  **E-mail : ehdaydkv112@naver.com
-</p>
 <br>
 
 
